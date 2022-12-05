@@ -13,10 +13,12 @@
     let p = document.createElement('p')
     p.innerHTML = sentence
 
+    let query = sentence.trim().toLowerCase()
+
     chat.appendChild(p)
     console.log(sentence)
 
-    const response = verses.find(e => e.includes(sentence))
+    const response = verses.find(e => e.includes(query))
     console.log("response")
     console.log(response)
 

@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "_app/immutable/start-fde92aec.js",
+    "file": "_app/immutable/start-6c90c75a.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -120,7 +120,7 @@
     ]
   },
   "src/routes/talk.svelte": {
-    "file": "_app/immutable/pages/talk.svelte-e1a533ee.js",
+    "file": "_app/immutable/pages/talk.svelte-341ad992.js",
     "src": "src/routes/talk.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -167,14 +167,6 @@
     "file": "_app/immutable/assets/__layout-7553bc68.css",
     "src": "src/routes\\__layout.css"
   },
-  "src/routes\\grid.css": {
-    "file": "_app/immutable/assets/grid-86210bbd.css",
-    "src": "src/routes\\grid.css"
-  },
-  "src/routes\\index.css": {
-    "file": "_app/immutable/assets/index-b712148e.css",
-    "src": "src/routes\\index.css"
-  },
   "src/routes\\logo.css": {
     "file": "_app/immutable/assets/logo-14773aad.css",
     "src": "src/routes\\logo.css"
@@ -182,6 +174,14 @@
   "Poem.css": {
     "file": "_app/immutable/assets/Poem-cdbcb532.css",
     "src": "Poem.css"
+  },
+  "src/routes\\index.css": {
+    "file": "_app/immutable/assets/index-b712148e.css",
+    "src": "src/routes\\index.css"
+  },
+  "src/routes\\grid.css": {
+    "file": "_app/immutable/assets/grid-86210bbd.css",
+    "src": "src/routes\\grid.css"
   },
   "src/routes\\grid1.css": {
     "file": "_app/immutable/assets/grid1-be4b5e53.css",
